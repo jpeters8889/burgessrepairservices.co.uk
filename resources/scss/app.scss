@@ -1,0 +1,26 @@
+@import '_settings.scss';
+
+@tailwind base;
+@tailwind components;
+
+@import 'transitions.scss';
+
+.inner-wrapper {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    nav a:hover {
+        @apply text-blue cursor-pointer;
+    }
+
+    p a {
+        @apply font-semibold transition-colour;
+    }
+
+    p a:hover {
+        @apply text-blue;
+    }
+}
+
+@tailwind utilities;
