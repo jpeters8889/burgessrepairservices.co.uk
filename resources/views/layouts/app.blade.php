@@ -32,7 +32,7 @@
 
                 <li>
                     <a href="tel:01270211126" class="flex space-x-2">
-                        <span class="flex-1 text-right">01782 211126</span>
+                        <span class="flex-1 text-right">01270 211126</span>
                         <span><i class="fas fa-phone"></i></span>
                     </a>
                 </li>

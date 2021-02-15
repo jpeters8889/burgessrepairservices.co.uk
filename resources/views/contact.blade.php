@@ -7,7 +7,6 @@
 
     <p>
         The easiest and quickest way to contact us by phone at <span class="font-semibold">01270 211126</span>
-        or email at <a href="mailto:info@burgessrepairservices.co.uk">info@burgessrepairservices.co.uk</a>
-        or fax at <span class="font-semibold">01270 585800</span>
+        or email at <a href="mailto:info@burgessrepairservices.co.uk">info@burgessrepairservices.co.uk</a>.
     </p>
 @endsection
